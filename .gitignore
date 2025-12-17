@@ -5,6 +5,8 @@ checkstuff.py
 clean.py
 Viral_Socal_Media_Trends.csv
 src/streamlit_app.py
-.streamlit/
-!.streamlit/config.toml
+# Streamlit
+.streamlit/secrets.toml
+# .streamlit/
+# !.streamlit/config.toml
 src/diagnostic.py
