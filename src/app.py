@@ -9,7 +9,8 @@ from streamlit_option_menu import option_menu
 # config
 st.set_page_config(
     page_title="Social Media Intelligence Dashboard",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="expanded"
 )
 
 # ui theme
